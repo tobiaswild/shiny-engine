@@ -12,7 +12,7 @@ sites:
   - name: Web
     url: https://www.tobiaswild.de/
   - name: WGapp API
-    url: https://wgapp-api.rawgreek.de
+    url: https://wgapp-api.rawgreek.de/graphql
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
