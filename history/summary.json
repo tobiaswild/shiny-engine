@@ -70,7 +70,7 @@
     "timeMonth": 188,
     "timeYear": 188,
     "dailyMinutesDown": {
-      "2024-09-23": 147
+      "2024-09-23": 148
     }
   },
   {
@@ -79,18 +79,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/wgapp-api.rawgreek.de.ico",
     "slug": "w-gapp-api",
     "status": "up",
-    "uptime": "2.96%",
-    "uptimeDay": "2.96%",
-    "uptimeWeek": "2.96%",
-    "uptimeMonth": "2.96%",
-    "uptimeYear": "2.96%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 723,
     "timeDay": 723,
     "timeWeek": 723,
     "timeMonth": 723,
     "timeYear": 723,
-    "dailyMinutesDown": {
-      "2024-09-23": 3
-    }
+    "dailyMinutesDown": {}
   }
 ]
