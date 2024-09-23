@@ -11,6 +11,8 @@ sites:
     url: https://news.ycombinator.com
   - name: Web
     url: https://www.tobiaswild.de/
+  - name: WGapp API
+    url: https://wgapp-api.rawgreek.de
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
